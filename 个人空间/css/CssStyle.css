@@ -1,0 +1,16 @@
+.CssStyle1{
+	width:1200px;	
+	margin-left:4%;
+	margin-top: 10px;
+	/*border:2px solid red;*/
+	position: relative;	
+	}
+.CssStyle2{
+	width:48%;	
+	margin-left:0.5%;
+	margin-bottom:10px;
+	/*border:2px solid green;*/
+	padding-bottom: 8px;
+	padding-top: 3px;
+	float: left;
+}
